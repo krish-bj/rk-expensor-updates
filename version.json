@@ -1,9 +1,9 @@
 {
-  "version": "0.1.0",
-  "versionCode": 1,
+  "version": "0.1.1-10007",
+  "versionCode": 10007,
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
-  "releaseNotes": "Initial update channel setup. No APK release has been published yet.",
-  "downloadUrl": null,
-  "sha256": null
+  "releaseNotes": "RK Expensor 0.1.1 update (build 10007).",
+  "downloadUrl": "https://github.com/krish-bj/rk-expensor-updates/releases/download/v0.1.1-10007/app-release.apk",
+  "sha256": "e172410b81b4c6d148f6beb706753f790143a695d875d59750f5cbf82e6800d7"
 }
