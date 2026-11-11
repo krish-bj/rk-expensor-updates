@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "versionCode": 1,
+  "minimumSupportedVersionCode": 1,
+  "mandatory": false,
+  "releaseNotes": "Initial update channel setup. No APK release has been published yet.",
+  "downloadUrl": null,
+  "sha256": null
+}
