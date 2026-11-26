@@ -1,9 +1,9 @@
 {
-  "version": "0.1.6",
-  "versionCode": 10012,
+  "version": "0.1.7",
+  "versionCode": 10013,
   "minimumSupportedVersionCode": 1,
   "mandatory": false,
   "releaseNotes": "Bank statement imports now flow consistently into Activity, dashboard, analytics and reports. Added daily interest for lending and borrowing, clearer loan quick actions, an improved investment overview, and consent-based background app updates.",
-  "downloadUrl": "https://github.com/krish-bj/rk-expensor-updates/releases/download/v0.1.6-build.10012/app-release.apk",
-  "sha256": "8aa31896968953a578622365baeb0f95a4c8b7cec6f7f5a1a72677b962050fd1"
+  "downloadUrl": "https://github.com/krish-bj/rk-expensor-updates/releases/download/v0.1.7-build.10013/app-release.apk",
+  "sha256": "146579418f73de8fb80cbfb6a16696e4b220cc218e62a95ac7a5fffba76fbdf5"
 }
